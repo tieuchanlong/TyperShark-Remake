@@ -1,0 +1,16 @@
+﻿  Application.cpp
+  BonusEnemy.cpp
+  Map.cpp
+d:\opengl\adventuretext\adventuretext\src\map.cpp(24): warning C4018: '>=': signed/unsigned mismatch
+d:\opengl\adventuretext\adventuretext\src\map.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\opengl\adventuretext\adventuretext\src\map.cpp(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\opengl\adventuretext\adventuretext\src\map.cpp(63): warning C4018: '<': signed/unsigned mismatch
+d:\opengl\adventuretext\adventuretext\src\map.cpp(70): warning C4018: '<': signed/unsigned mismatch
+d:\opengl\adventuretext\adventuretext\src\map.cpp(84): warning C4018: '<': signed/unsigned mismatch
+d:\opengl\adventuretext\adventuretext\src\map.cpp(91): warning C4018: '<': signed/unsigned mismatch
+d:\opengl\adventuretext\adventuretext\src\map.cpp(105): warning C4018: '<': signed/unsigned mismatch
+d:\opengl\adventuretext\adventuretext\src\map.cpp(121): warning C4018: '<': signed/unsigned mismatch
+d:\opengl\adventuretext\adventuretext\src\map.cpp(140): warning C4018: '<': signed/unsigned mismatch
+d:\opengl\adventuretext\adventuretext\src\map.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AdventureText.vcxproj -> D:\OpenGL\AdventureText\Debug\AdventureText.exe
