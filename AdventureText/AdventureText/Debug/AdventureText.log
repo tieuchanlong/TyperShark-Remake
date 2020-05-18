@@ -1,16 +1,34 @@
 ﻿  Application.cpp
   BonusEnemy.cpp
+  Color.cpp
+  Enemy.cpp
   Map.cpp
-d:\opengl\adventuretext\adventuretext\src\map.cpp(24): warning C4018: '>=': signed/unsigned mismatch
-d:\opengl\adventuretext\adventuretext\src\map.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-d:\opengl\adventuretext\adventuretext\src\map.cpp(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-d:\opengl\adventuretext\adventuretext\src\map.cpp(63): warning C4018: '<': signed/unsigned mismatch
-d:\opengl\adventuretext\adventuretext\src\map.cpp(70): warning C4018: '<': signed/unsigned mismatch
-d:\opengl\adventuretext\adventuretext\src\map.cpp(84): warning C4018: '<': signed/unsigned mismatch
-d:\opengl\adventuretext\adventuretext\src\map.cpp(91): warning C4018: '<': signed/unsigned mismatch
-d:\opengl\adventuretext\adventuretext\src\map.cpp(105): warning C4018: '<': signed/unsigned mismatch
-d:\opengl\adventuretext\adventuretext\src\map.cpp(121): warning C4018: '<': signed/unsigned mismatch
-d:\opengl\adventuretext\adventuretext\src\map.cpp(140): warning C4018: '<': signed/unsigned mismatch
-d:\opengl\adventuretext\adventuretext\src\map.cpp(145): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\map.cpp(24): warning C4018: '>=': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\map.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\github\typershark-remake\adventuretext\adventuretext\src\map.cpp(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\github\typershark-remake\adventuretext\adventuretext\src\map.cpp(63): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\map.cpp(70): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\map.cpp(84): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\map.cpp(91): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\map.cpp(105): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\map.cpp(121): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\map.cpp(140): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\map.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+  Setting.cpp
+  TankFillEnemy.cpp
+  Text.cpp
+  TextRenderer.cpp
+d:\github\typershark-remake\adventuretext\adventuretext\src\textrenderer.cpp(32): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\textrenderer.cpp(39): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\textrenderer.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  UserInterface.cpp
+d:\github\typershark-remake\adventuretext\adventuretext\src\userinterface.cpp(15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\github\typershark-remake\adventuretext\adventuretext\src\userinterface.cpp(79): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\userinterface.cpp(100): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\userinterface.cpp(110): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\userinterface.cpp(114): warning C4018: '<': signed/unsigned mismatch
+d:\github\typershark-remake\adventuretext\adventuretext\src\userinterface.cpp(128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   Generating Code...
-  AdventureText.vcxproj -> D:\OpenGL\AdventureText\Debug\AdventureText.exe
+d:\github\typershark-remake\adventuretext\adventuretext\src\enemy.cpp(79): warning C4715: 'Enemy::CollidePlayer': not all control paths return a value
+  AdventureText.vcxproj -> D:\Github\TyperShark-Remake\AdventureText\Debug\AdventureText.exe
