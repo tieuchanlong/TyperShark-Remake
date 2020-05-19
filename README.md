@@ -2,7 +2,7 @@
 ## Description
 This is a C++ project for TyperShark Remake Game using OpenGL and Glut.
 
-![](Capture.png)
+![](Capture.PNG)
 
 ## Features
 * Implement 2D graphics using OpenGL and Glut library
