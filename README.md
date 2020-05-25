@@ -10,7 +10,10 @@ This is a C++ project for TyperShark Remake Game using OpenGL and Glut.
 * Apply dynamic memory allocation, objected-programming inheritance, delegation, structs
 
 ## Challenges
+There is no challenge up until now.
 
+## Programming Lanaguage
+C++
 
 ## Major Components
 * OpenGL
